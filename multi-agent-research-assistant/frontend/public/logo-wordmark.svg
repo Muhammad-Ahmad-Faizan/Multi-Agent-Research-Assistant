@@ -1,0 +1,26 @@
+<svg width="360" height="80" viewBox="0 0 360 80" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Multi-Agent Research Assistant wordmark (dark theme)</title>
+  <desc>Logo mark of connected agent nodes in light gray beside the project name in white text with an indigo accent, designed for use on dark backgrounds.</desc>
+
+  <!-- mark, scaled down and centered vertically -->
+  <g transform="translate(0,0) scale(0.36)">
+    <line x1="100" y1="100" x2="52" y2="52" stroke="#E5E5E5" stroke-width="5"/>
+    <line x1="100" y1="100" x2="148" y2="52" stroke="#E5E5E5" stroke-width="5"/>
+    <line x1="100" y1="100" x2="52" y2="148" stroke="#E5E5E5" stroke-width="5"/>
+    <line x1="100" y1="100" x2="148" y2="148" stroke="#E5E5E5" stroke-width="5"/>
+    <line x1="100" y1="100" x2="100" y2="34" stroke="#E5E5E5" stroke-width="5"/>
+
+    <circle cx="52" cy="52" r="15" fill="#111111" stroke="#E5E5E5" stroke-width="7"/>
+    <circle cx="148" cy="52" r="15" fill="#111111" stroke="#E5E5E5" stroke-width="7"/>
+    <circle cx="52" cy="148" r="15" fill="#111111" stroke="#E5E5E5" stroke-width="7"/>
+    <circle cx="148" cy="148" r="15" fill="#111111" stroke="#E5E5E5" stroke-width="7"/>
+    <circle cx="100" cy="34" r="12" fill="#111111" stroke="#E5E5E5" stroke-width="7"/>
+
+    <circle cx="100" cy="100" r="24" fill="#E5E5E5"/>
+    <circle cx="100" cy="100" r="24" fill="none" stroke="#6C63FF" stroke-width="7"/>
+    <circle cx="100" cy="100" r="8" fill="#6C63FF"/>
+  </g>
+
+  <text x="82" y="36" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#F5F5F5">Multi-Agent</text>
+  <text x="82" y="60" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#F5F5F5">Research <tspan fill="#6C63FF">Assistant</tspan></text>
+</svg>
